@@ -127,7 +127,14 @@ Provides recommendations for job seekers, companies, and institutions.
 
 Data Collection → Data Cleaning (Python) → EDA → Dashboard (Power BI) → Insights → Report Generation
 
+📷 Dashboard Preview
 
+ ![Dashboard](dashboard.png)
+
+---
+📄 Project Report
+
+ [Click here to view PDF](your-pdf-link)
 
 ---
 
