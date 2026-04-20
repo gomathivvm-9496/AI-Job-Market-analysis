@@ -134,7 +134,7 @@ Data Collection → Data Cleaning (Python) → EDA → Dashboard (Power BI) → 
 ---
 📄 Project Report
 
- [Click here to view PDF](your-pdf-link)
+ [(pdf-link)](https://drive.google.com/file/d/1RnV72-BF2UyabU_7BUO4PmpvlkXloBo2/view?usp=sharing)
 
 ---
 
